@@ -1,1 +1,1 @@
-# SecurityCourseProject
+# SecurityCourseProjects
